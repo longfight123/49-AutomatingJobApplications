@@ -1,10 +1,12 @@
-"""
+"""Linkedin Job Application Automation
 
 This script automates applying to jobs on linkedin.
 
 This script requires that 'selenium',
  'python_dotenv' be installed within the Python
 environment you are running this script in.
+You must also have a linkedin account and upload
+your resume into your Linkedin account.
 
 """
 
